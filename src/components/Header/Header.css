@@ -1,0 +1,7 @@
+.header {
+    background-color: rgb(159, 194, 5);
+    color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+
+}
